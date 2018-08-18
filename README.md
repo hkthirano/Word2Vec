@@ -13,3 +13,5 @@ $ python bot.py
 
 5. 結果  
 [word2vecをpythonで使ってみる（ソースコード）](https://qiita.com/hokuto_HIRANO/items/d6fc76496ee81eb11389)
+
+![サンプル](./sample/sample1.png)
